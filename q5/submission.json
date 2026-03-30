@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial photograph style editorial illustration of a vast ocean of abandoned small wooden desks and school chairs stretching to every horizon, arranged in uneven rows, each desk with a single wilting flower in a tiny glass vase. In the center of this ocean of empty desks, a narrow aisle leads to one desk where a small girl's bridal veil is draped over the chair back, the veil's white fabric trailing across the dusty wooden surface. The desks represent millions of girls removed from education. Warm desaturated dusty light, golden hour, shot from 30 meters altitude. Color palette: sun-bleached wood, pale ochre dust, one stark white bridal veil contrasting the brown. The vast emptiness of the desk field expanding to the horizon conveys the scale. Mood: quiet devastation, irreversible loss of futures. No text, no labels, no legends, no axes, no numbers visible in image, no charts, no infographic elements.",
+  "model": "Gemini Imagen via Antigravity",
+  "dataset_name": "UNICEF Child Marriage Global Dataset",
+  "dataset_url": "https://data.unicef.org/topic/child-protection/child-marriage/",
+  "insight": "In South Asia, 1 in 4 girls is married before turning 18, pulling approximately 12 million girls per year out of education and into lost futures."
+}

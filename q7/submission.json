@@ -1,0 +1,8 @@
+{
+  "prompt": "Japanese ukiyo-e woodblock print, Edo period (1780s), in the style of Katsushika Hokusai's Thirty-six Views series. Depicting a dramatic multi-tiered waterfall cascading down a tall cliff face. The water at the top is rendered in deep indigo blue with vigorous, bold flowing lines and full opacity. As the water descends through each tier of rock, it becomes progressively paler, thinner, and more transparent — the bold dark blue lines dissolving into the faintest whisper of pale grey wash at the bottom, where the water seems to vanish before reaching the pool below. The rocks are rendered in warm ochre and grey-brown with flat unmodulated color areas. Bold black outlines of consistent weight define all forms. The composition follows a strong vertical diagonal. Flat color application with no photographic shading or gradients — only the distinct tonal steps of woodblock printing. Visible woodgrain texture in the sky area, which is pale cream. Small pine trees grip the cliff edges in dark green. Muted palette: indigo, ochre, grey-brown, cream paper ground, forest green. No Western perspective, no photographic depth, no text, no labels, no annotations.",
+  "model": "Gemini Imagen via Antigravity",
+  "concept": "Vanishing Gradients",
+  "tradition_name": "Japanese Edo-period woodblock prints (ukiyo-e)",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Flat unmodulated color areas, bold black outlines of consistent weight, Hokusai's diagonal compositions, visible woodgrain texture, muted indigo-ochre palette, no photographic shading — the signal (water) vanishing tier by tier maps directly to gradients disappearing through deep network layers."
+}
